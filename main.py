@@ -8,7 +8,7 @@ angle=0.0
 ang=0.0
 ang2=0.0
 pygame.init()
-pygame.display.set_caption('Mandela drawer')
+pygame.display.set_caption('Epicycle drawing')
 add_ang_t=""
 screen = pygame.display.set_mode((1280, 720))
 clock = pygame.time.Clock()
