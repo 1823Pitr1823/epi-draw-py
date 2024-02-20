@@ -1,1 +1,2 @@
-python mandela_drawer.py
+CALL venv/Scripts/activate.bat
+python main.py
