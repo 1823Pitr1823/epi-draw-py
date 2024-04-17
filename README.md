@@ -1,4 +1,4 @@
-#Epi-Draw
+# Epi-Draw
 ## Description
   Draws convoluting patterns using goniometric functions.
 ## Install
