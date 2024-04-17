@@ -1,5 +1,5 @@
 # Epi-Draw
- - Draws convoluting patterns using goniometric functions.
+ - Draws convoluted patterns using goniometric functions.
 ## Install
 ### Windows
   1. Install [Python](https://www.python.org/), make sure to install pip as well
